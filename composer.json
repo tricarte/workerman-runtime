@@ -16,7 +16,7 @@
     "minimum-stability": "stable",
     "require": {
         "symfony/runtime": "^7.1",
-        "symfony/http-kernel": "^6.0",
+        "symfony/http-kernel": "^7.1",
         "workerman/workerman": "dev-master"
     },
     "require-dev": {
