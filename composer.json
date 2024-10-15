@@ -1,5 +1,5 @@
 {
-    "name": "gingteam/workerman-runtime",
+    "name": "tricarte/workerman-runtime",
     "type": "library",
     "license": "MIT",
     "autoload": {
